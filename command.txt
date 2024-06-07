@@ -1,0 +1,10 @@
+npm init -y
+npm i express
+npm i mongoose
+npm i nodemon
+npm run dev
+npm i body-parser
+
+---------------------
+
+git init
